@@ -6,7 +6,7 @@
 
 <targetConfigs>
     <targetConfig targets="lightning__FlowScreen" category="textType">
-        <property name ="recordId" type="String"/>
+        <property name ="Input" type="String"/>
     </targetConfig>
 </targetConfigs>
 

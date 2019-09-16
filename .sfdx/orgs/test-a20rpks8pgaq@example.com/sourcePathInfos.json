@@ -1033,14 +1033,14 @@
     [
         "/Users/vchalem/FlowWinter20/force-app/main/default/lwc/richText/richText.html",
         {
+            "state": "u",
             "sourcePath": "/Users/vchalem/FlowWinter20/force-app/main/default/lwc/richText/richText.html",
             "isDirectory": false,
-            "size": 109,
-            "modifiedTime": 1568654653335,
-            "changeTime": 1568654653335,
-            "contentHash": "f2d969f6f76fcaeb5c94752161f9fb163290515b",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 113,
+            "modifiedTime": 1568662614944,
+            "changeTime": 1568662614944,
+            "contentHash": "325f07f3fefed542a90d46505f88e9caf3d01425"
         }
     ],
     [
@@ -1048,10 +1048,10 @@
         {
             "sourcePath": "/Users/vchalem/FlowWinter20/force-app/main/default/lwc/richText/richText.js",
             "isDirectory": false,
-            "size": 192,
-            "modifiedTime": 1568655564974,
-            "changeTime": 1568655564974,
-            "contentHash": "3c73266d1d8e8621c713ed7e6657d41bfa12498c",
+            "size": 191,
+            "modifiedTime": 1568662559689,
+            "changeTime": 1568662559689,
+            "contentHash": "c05624a737487d151bead43db0a6c3491b6a318c",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -1059,14 +1059,14 @@
     [
         "/Users/vchalem/FlowWinter20/force-app/main/default/lwc/richText/richText.js-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/vchalem/FlowWinter20/force-app/main/default/lwc/richText/richText.js-meta.xml",
             "isDirectory": false,
+            "size": 472,
+            "modifiedTime": 1568662568061,
+            "changeTime": 1568662568061,
+            "contentHash": "5d3d7f488794325b8efe340d0d27796fec9067dc",
             "isMetadataFile": true,
-            "size": 475,
-            "modifiedTime": 1568655651556,
-            "changeTime": 1568655651556,
-            "contentHash": "0102715570a4d375429941635259e9d274126300"
+            "state": "u"
         }
     ]
 ]
